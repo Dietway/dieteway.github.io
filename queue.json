@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "extra-2026-10-28-r1",
+    "type": "reel",
+    "scheduled_at": "2026-10-28T19:00:00-03:00",
+    "caption": "Mensagem de domingo à noite não espera segunda. A assistente responde com o seu preço, olha a sua agenda e oferece os horários livres. Quantas mensagens fora do horário você recebe por semana?\n\n#nutricionista #consultorio #agendamento",
+    "media": [
+      "reel.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "extra-2026-10-28-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-10-29T19:00:00-03:00",
+    "caption": "Salve para montar as suas respostas prontas. Mensagem fora do horário não espera segunda: quem responde primeiro marca a consulta. Qual dessas mais chega no seu WhatsApp? Comente o número.\n\n#nutricionista #consultoriodenutricao #nutricaoclinica #gestaodeconsultorio",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  }
+]

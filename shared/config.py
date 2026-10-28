@@ -12,10 +12,8 @@ OUTPUT_DIR = ROOT / "output"
 PUBLIC_REMOTE = "https://github.com/Dieteway/dieteway.github.io.git"
 PUBLIC_DIR = ROOT / "public"
 TIMEZONE = "America/Sao_Paulo"
-VOICE = "pf_dora"  # Kokoro pt-BR female: the audience is mostly women nutritionists; never change mid-week
-VOICE_SPEED = 1.1  # inside sentences only; the pauses between sentences keep their length
-KOKORO_MODEL = ROOT / "generator" / "voices" / "kokoro-v1.0.onnx"
-KOKORO_VOICES = ROOT / "generator" / "voices" / "voices-v1.0.bin"
+VOICE = "pt-BR-ThalitaMultilingualNeural"  # edge-tts, native pt-BR female; never change mid-week
+VOICE_RATE = "+8%"  # inside sentences only; the pauses between sentences keep their length
 
 
 @dataclass(frozen=True)
@@ -33,7 +31,7 @@ def load_settings(env_file: Path | None = ROOT / ".env") -> Settings:
         ig_user_id=os.getenv("IG_USER_ID") or None,
         ig_access_token=os.getenv("IG_ACCESS_TOKEN") or None,
         pages_base_url=(os.getenv("PAGES_BASE_URL") or "").rstrip("/") or None,
-        handle=os.getenv("IG_HANDLE", ""),
+        handle=os.getenv("IG_HANDLE", "@diet_way"),
     )
 
 
