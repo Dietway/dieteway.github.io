@@ -70,8 +70,27 @@ def publish_due(queue, client, base_url, now, *, only=None, dry_run=False, log=p
             mark_published(entry, "instagram", published_id)
             result.published.append(entry["id"])
             log(f"published {entry['id']} -> {published_id}")
+            on_change()  # the post is safe before the story is tried
+            _share_to_story(client, entry, urls, log)
         on_change()
     return result
+
+
+def _share_to_story(client, entry, urls, log) -> None:
+    """Owner (2026-10-29): every feed post also goes to the stories. The reel itself, or the first image. A story
+    failure never touches the post's status, so the post is never republished because of it."""
+    state = entry["platforms"]["instagram"]
+    try:
+        state["story_id"] = client.publish_story(urls[0], video=entry["type"] == "reel")
+        log(f"story {entry['id']} -> {state['story_id']}")
+    except InstagramError as exc:
+        if exc.code == TOKEN_ERROR_CODE:
+            raise
+        state["story_error"] = str(exc)[:300]
+        log(f"story failed for {entry['id']}: {exc}")
+    except requests.RequestException as exc:
+        state["story_error"] = f"network error: {exc}"[:300]
+        log(f"story failed for {entry['id']}: network error")
 
 
 def main(argv=None) -> int:

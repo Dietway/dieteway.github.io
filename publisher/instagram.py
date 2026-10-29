@@ -80,6 +80,10 @@ class InstagramClient:
                                caption=caption)["id"]
         return self._publish(container)
 
+    def publish_story(self, url: str, video: bool) -> str:
+        field = {"video_url": url} if video else {"image_url": url}
+        return self._publish(self._post(f"{self.user_id}/media", media_type="STORIES", **field)["id"])
+
     def recent_media(self, limit: int = 10) -> list[dict]:
         return self._get(f"{self.user_id}/media", fields="id,timestamp", limit=limit).get("data", [])
 
