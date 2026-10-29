@@ -17,6 +17,24 @@
     }
   },
   {
+    "id": "2026-10-30-r1",
+    "type": "reel",
+    "scheduled_at": "2026-10-29T12:00:00-03:00",
+    "caption": "Falta sem aviso é horário perdido duas vezes: o da paciente que não veio e o de quem queria a vaga. Lembrete, confirmação e remarcação pela conversa. Quantas faltas você teve este mês?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "published",
+        "attempts": 0,
+        "published_id": "18089678639284942",
+        "last_error": null
+      }
+    }
+  },
+  {
     "id": "extra-2026-10-28-c1",
     "type": "carousel",
     "scheduled_at": "2026-10-29T19:00:00-03:00",
@@ -41,28 +59,45 @@
     }
   },
   {
-    "id": "2026-10-30-r1",
+    "id": "2026-10-30-r2",
     "type": "reel",
-    "scheduled_at": "2026-10-29T12:00:00-03:00",
-    "caption": "Falta sem aviso é horário perdido duas vezes: o da paciente que não veio e o de quem queria a vaga. Lembrete, confirmação e remarcação pela conversa. Quantas faltas você teve este mês?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "scheduled_at": "2026-10-30T12:00:00-03:00",
+    "caption": "Áudio longo no meio do atendimento? A assistente transcreve, entende e responde. Você prefere receber áudio ou texto dos pacientes?\n\n#nutricionista #nutricaoclinica #whatsapp",
     "media": [
       "reel.mp4",
       "cover.jpg"
     ],
     "platforms": {
       "instagram": {
-        "status": "published",
+        "status": "pending",
         "attempts": 0,
-        "published_id": "18089678639284942",
+        "published_id": null,
         "last_error": null
       }
     }
   },
   {
-    "id": "2026-10-30-r2",
+    "id": "extra-2026-10-29-a1",
+    "type": "anuncio",
+    "scheduled_at": "2026-10-30T19:00:00-03:00",
+    "caption": "Confirmar consulta um por um no WhatsApp toma a sua tarde. A Wayni lembra o paciente, registra a confirmação e remarca pela própria conversa. Teste 7 dias grátis, sem fidelidade: link na bio. Quanto tempo você gasta confirmando consultas por semana?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r3",
     "type": "reel",
-    "scheduled_at": "2026-10-30T12:00:00-03:00",
-    "caption": "Áudio longo no meio do atendimento? A assistente transcreve, entende e responde. Você prefere receber áudio ou texto dos pacientes?\n\n#nutricionista #nutricaoclinica #whatsapp",
+    "scheduled_at": "2026-10-31T12:00:00-03:00",
+    "caption": "A assistente cuida da agenda, nunca da dieta: pergunta clínica vai direto para você, com a conversa inteira. Que pergunta de paciente você jamais deixaria no automático?\n\n#nutricionista #nutricaoclinica #consultoriodenutricao",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -100,10 +135,10 @@
     }
   },
   {
-    "id": "2026-10-30-r3",
+    "id": "2026-10-30-r4",
     "type": "reel",
-    "scheduled_at": "2026-10-31T12:00:00-03:00",
-    "caption": "A assistente cuida da agenda, nunca da dieta: pergunta clínica vai direto para você, com a conversa inteira. Que pergunta de paciente você jamais deixaria no automático?\n\n#nutricionista #nutricaoclinica #consultoriodenutricao",
+    "scheduled_at": "2026-11-01T12:00:00-03:00",
+    "caption": "Três perguntas, três respostas prontas. Salve e monte as suas ainda hoje. Qual pergunta mais se repete no seu WhatsApp?\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -135,10 +170,10 @@
     }
   },
   {
-    "id": "2026-10-30-r4",
+    "id": "2026-10-30-r5",
     "type": "reel",
-    "scheduled_at": "2026-11-01T12:00:00-03:00",
-    "caption": "Três perguntas, três respostas prontas. Salve e monte as suas ainda hoje. Qual pergunta mais se repete no seu WhatsApp?\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
+    "scheduled_at": "2026-11-02T12:00:00-03:00",
+    "caption": "Antes e depois de ter uma assistente no WhatsApp do consultório. Em qual lado você está hoje?\n\n#nutricionista #consultoriodenutricao #whatsappbusiness",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -177,10 +212,10 @@
     }
   },
   {
-    "id": "2026-10-30-r5",
+    "id": "2026-10-30-r6",
     "type": "reel",
-    "scheduled_at": "2026-11-02T12:00:00-03:00",
-    "caption": "Antes e depois de ter uma assistente no WhatsApp do consultório. Em qual lado você está hoje?\n\n#nutricionista #consultoriodenutricao #whatsappbusiness",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "caption": "Link de agendamento: a pessoa escolhe, o horário fica reservado no clique e o lembrete sai sozinho. Seus pacientes preferem marcar por link ou conversando?\n\n#nutricionista #agendamento #consultoriodenutricao",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -195,10 +230,27 @@
     }
   },
   {
-    "id": "2026-10-30-r6",
+    "id": "extra-2026-10-29-a2",
+    "type": "anuncio",
+    "scheduled_at": "2026-11-03T19:00:00-03:00",
+    "caption": "Quem responde primeiro marca a consulta. A Wayni atende na hora, com as regras do seu consultório, e oferece só horários livres da sua agenda. Teste 7 dias grátis, sem fidelidade: link na bio. Quanto tempo o seu paciente espera hoje por uma resposta?\n\n#nutricionista #whatsapp #gestaodeconsultorio",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r7",
     "type": "reel",
-    "scheduled_at": "2026-11-03T12:00:00-03:00",
-    "caption": "Link de agendamento: a pessoa escolhe, o horário fica reservado no clique e o lembrete sai sozinho. Seus pacientes preferem marcar por link ou conversando?\n\n#nutricionista #agendamento #consultoriodenutricao",
+    "scheduled_at": "2026-11-04T12:00:00-03:00",
+    "caption": "Quatro mensagens, quatro respostas, todas com o seu texto. O que você mais tem medo de uma resposta automática falar?\n\n#nutricionista #nutricaoclinica #atendimento",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -236,10 +288,10 @@
     }
   },
   {
-    "id": "2026-10-30-r7",
+    "id": "2026-11-06-r1",
     "type": "reel",
-    "scheduled_at": "2026-11-04T12:00:00-03:00",
-    "caption": "Quatro mensagens, quatro respostas, todas com o seu texto. O que você mais tem medo de uma resposta automática falar?\n\n#nutricionista #nutricaoclinica #atendimento",
+    "scheduled_at": "2026-11-05T12:00:00-03:00",
+    "caption": "Horário ocupado não precisa virar conversa encerrada: ela oferece as opções livres mais próximas. Qual dia da sua semana enche primeiro?\n\n#nutricionista #agendamento #consultoriodenutricao",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -271,10 +323,10 @@
     }
   },
   {
-    "id": "2026-11-06-r1",
+    "id": "2026-11-06-r2",
     "type": "reel",
-    "scheduled_at": "2026-11-05T12:00:00-03:00",
-    "caption": "Horário ocupado não precisa virar conversa encerrada: ela oferece as opções livres mais próximas. Qual dia da sua semana enche primeiro?\n\n#nutricionista #agendamento #consultoriodenutricao",
+    "scheduled_at": "2026-11-06T12:00:00-03:00",
+    "caption": "O que é clínico chega para você com o contexto completo. O que é agenda, a assistente resolve. Salve para lembrar dessa divisão.\n\n#nutricionista #nutricaoclinica #atendimento",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -289,10 +341,27 @@
     }
   },
   {
-    "id": "2026-11-06-r2",
+    "id": "extra-2026-10-29-a3",
+    "type": "anuncio",
+    "scheduled_at": "2026-11-06T19:00:00-03:00",
+    "caption": "O WhatsApp não fecha às 18h. A Wayni responde no fim de semana com o texto que você cadastrou e oferece só horários livres. Você descansa e a agenda continua enchendo. Teste 7 dias grátis: link na bio. Quantas mensagens chegam no seu domingo?\n\n#nutricionista #consultoriodenutricao #whatsapp",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r3",
     "type": "reel",
-    "scheduled_at": "2026-11-06T12:00:00-03:00",
-    "caption": "O que é clínico chega para você com o contexto completo. O que é agenda, a assistente resolve. Salve para lembrar dessa divisão.\n\n#nutricionista #nutricaoclinica #atendimento",
+    "scheduled_at": "2026-11-07T12:00:00-03:00",
+    "caption": "A maioria das faltas é esquecimento. Lembrete na véspera, confirmação registrada. Você manda lembrete hoje? Manual ou automático?\n\n#nutricionista #consultoriodenutricao #agendamento",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -331,10 +400,10 @@
     }
   },
   {
-    "id": "2026-11-06-r3",
+    "id": "2026-11-06-r4",
     "type": "reel",
-    "scheduled_at": "2026-11-07T12:00:00-03:00",
-    "caption": "A maioria das faltas é esquecimento. Lembrete na véspera, confirmação registrada. Você manda lembrete hoje? Manual ou automático?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "scheduled_at": "2026-11-08T12:00:00-03:00",
+    "caption": "Regra de ouro da remarcação: responder no dia, oferecer duas opções e atualizar a agenda. Você já faz assim ou ainda pergunta qual horário fica bom?\n\n#nutricionista #gestaodeconsultorio #nutricaoclinica",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -366,10 +435,10 @@
     }
   },
   {
-    "id": "2026-11-06-r4",
+    "id": "2026-11-06-r5",
     "type": "reel",
-    "scheduled_at": "2026-11-08T12:00:00-03:00",
-    "caption": "Regra de ouro da remarcação: responder no dia, oferecer duas opções e atualizar a agenda. Você já faz assim ou ainda pergunta qual horário fica bom?\n\n#nutricionista #gestaodeconsultorio #nutricaoclinica",
+    "scheduled_at": "2026-11-09T12:00:00-03:00",
+    "caption": "Cada consultório tem as suas regras, e a assistente responde de acordo com as suas. Quer ver como fica no seu? Chama a gente pelo link na bio.\n\n#nutricionista #consultoriodenutricao #atendimento",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -407,10 +476,10 @@
     }
   },
   {
-    "id": "2026-11-06-r5",
+    "id": "2026-11-06-r6",
     "type": "reel",
-    "scheduled_at": "2026-11-09T12:00:00-03:00",
-    "caption": "Cada consultório tem as suas regras, e a assistente responde de acordo com as suas. Quer ver como fica no seu? Chama a gente pelo link na bio.\n\n#nutricionista #consultoriodenutricao #atendimento",
+    "scheduled_at": "2026-11-10T12:00:00-03:00",
+    "caption": "API oficial do WhatsApp, provedor verificado pela Meta e assistente que se apresenta como assistente. O que você confere antes de confiar numa ferramenta?\n\n#nutricionista #nutricaoclinica #whatsappbusiness",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -425,10 +494,27 @@
     }
   },
   {
-    "id": "2026-11-06-r6",
+    "id": "extra-2026-10-29-a4",
+    "type": "anuncio",
+    "scheduled_at": "2026-11-10T19:00:00-03:00",
+    "caption": "Toda semana as mesmas perguntas: valor, endereço, forma de pagamento. Você escreve uma vez e a Wayni responde sempre, já oferecendo os horários livres. Teste 7 dias grátis, sem fidelidade: link na bio. Qual pergunta você mais responde?\n\n#nutricionista #gestaodeconsultorio #agendamento",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r7",
     "type": "reel",
-    "scheduled_at": "2026-11-10T12:00:00-03:00",
-    "caption": "API oficial do WhatsApp, provedor verificado pela Meta e assistente que se apresenta como assistente. O que você confere antes de confiar numa ferramenta?\n\n#nutricionista #nutricaoclinica #whatsappbusiness",
+    "scheduled_at": "2026-11-11T12:00:00-03:00",
+    "caption": "Sete dias grátis, sem fidelidade e sem taxa de instalação. Que tal ver o seu fim de semana respondido sem você?\n\n#nutricionista #consultoriodenutricao #agendamento",
     "media": [
       "reel.mp4",
       "cover.jpg"
@@ -466,10 +552,10 @@
     }
   },
   {
-    "id": "2026-11-06-r7",
+    "id": "extra-2026-10-29-r1",
     "type": "reel",
-    "scheduled_at": "2026-11-11T12:00:00-03:00",
-    "caption": "Sete dias grátis, sem fidelidade e sem taxa de instalação. Que tal ver o seu fim de semana respondido sem você?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "scheduled_at": "2026-11-12T12:00:00-03:00",
+    "caption": "Prazer, eu sou a Wayni! Respondo o WhatsApp do seu consultório com o seu texto, ofereço só horários livres e lembro o paciente antes da consulta. Pergunta sobre dieta vai sempre para você. O que você mais gostaria que eu fizesse por você?\n\n#nutricionista #consultoriodenutricao #whatsapp",
     "media": [
       "reel.mp4",
       "cover.jpg"
