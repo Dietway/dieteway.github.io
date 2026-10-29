@@ -1,0 +1,48 @@
+name: comments
+
+# Source of truth: public_files/ in the private dietway-autopilot repository (generator/public_repo.py copies it here).
+
+# Answers "Comente AGENDA" by direct message (publisher/comments.py). Off until the repository variable
+# COMMENT_REPLIES is "on": the token needs the comments and messages permissions first (docs/setup/accounts.md,
+# section 6, in the private repository).
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: comments
+  cancel-in-progress: false
+
+jobs:
+  reply:
+    if: ${{ vars.COMMENT_REPLIES == 'on' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements-publisher.txt
+      - run: python -m publisher.comments --state replied.json
+      - name: Commit replied comment ids
+        if: always()
+        run: |
+          git add replied.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "dietway-autopilot"
+          git config user.email "dietway-autopilot@users.noreply.github.com"
+          git commit -q -m "chore: replied comments"
+          for attempt in 1 2 3; do
+            if git pull -q --rebase && git push -q; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1

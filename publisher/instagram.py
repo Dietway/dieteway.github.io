@@ -1,4 +1,5 @@
 """Instagram API with Instagram Login: publish reels, carousels and single images from public media URLs."""
+import json
 import time
 
 import requests
@@ -64,9 +65,10 @@ class InstagramClient:
         self.wait_until_ready(container_id)
         return self._post(f"{self.user_id}/media_publish", creation_id=container_id)["id"]
 
-    def publish_reel(self, video_url: str, caption: str) -> str:
+    def publish_reel(self, video_url: str, caption: str, cover_url: str | None = None) -> str:
+        cover = {"cover_url": cover_url} if cover_url else {}
         container = self._post(f"{self.user_id}/media", media_type="REELS", video_url=video_url,
-                               caption=caption, share_to_feed="true")["id"]
+                               caption=caption, share_to_feed="true", **cover)["id"]
         return self._publish(container)
 
     def publish_carousel(self, image_urls: list[str], caption: str) -> str:
@@ -77,6 +79,17 @@ class InstagramClient:
         container = self._post(f"{self.user_id}/media", media_type="CAROUSEL", children=",".join(children),
                                caption=caption)["id"]
         return self._publish(container)
+
+    def recent_media(self, limit: int = 10) -> list[dict]:
+        return self._get(f"{self.user_id}/media", fields="id,timestamp", limit=limit).get("data", [])
+
+    def comments(self, media_id: str, limit: int = 50) -> list[dict]:
+        return self._get(f"{media_id}/comments", fields="id,text,timestamp,from", limit=limit).get("data", [])
+
+    def private_reply(self, comment_id: str, text: str) -> None:
+        """Direct message to whoever wrote the comment (Instagram allows one, within 7 days of the comment)."""
+        self._post(f"{self.user_id}/messages", recipient=json.dumps({"comment_id": comment_id}),
+                   message=json.dumps({"text": text}))
 
     def publish_image(self, image_url: str, caption: str) -> str:
         container = self._post(f"{self.user_id}/media", image_url=image_url, caption=caption)["id"]

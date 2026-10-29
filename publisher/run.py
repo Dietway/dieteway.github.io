@@ -33,7 +33,7 @@ def _select(queue, now, only) -> list[dict]:
 
 def _publish(client, entry, urls) -> str:
     if entry["type"] == "reel":
-        return client.publish_reel(urls[0], entry["caption"])
+        return client.publish_reel(urls[0], entry["caption"], *urls[1:2])  # urls[1]: cover.jpg, if any
     if entry["type"] == "chat":
         return client.publish_image(urls[0], entry["caption"])
     return client.publish_carousel(urls, entry["caption"])

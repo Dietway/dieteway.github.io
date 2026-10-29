@@ -9,11 +9,17 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = ROOT / "output"
 # This repository is private. Publishing runs in a public one (free GitHub Actions and Pages) that holds the queue,
 # publisher/, shared/ and the media; PUBLIC_DIR is its local clone (generator/public_repo.py).
-PUBLIC_REMOTE = "https://github.com/Dieteway/dieteway.github.io.git"
+PUBLIC_REMOTE = "https://github.com/Dietway/dieteway.github.io.git"
 PUBLIC_DIR = ROOT / "public"
 TIMEZONE = "America/Sao_Paulo"
 VOICE = "pt-BR-ThalitaMultilingualNeural"  # edge-tts, native pt-BR female; never change mid-week
 VOICE_RATE = "+8%"  # inside sentences only; the pauses between sentences keep their length
+# Voices a reel may pick with its "voice" field (owner, 2026-10-28: vary the voices). Short name -> edge-tts voice.
+VOICES = {
+    "thalita": "pt-BR-ThalitaMultilingualNeural",
+    "remy": "fr-FR-RemyMultilingualNeural",
+    "brian": "en-US-BrianMultilingualNeural",
+}
 
 
 @dataclass(frozen=True)

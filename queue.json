@@ -39,5 +39,465 @@
         "last_error": null
       }
     }
+  },
+  {
+    "id": "2026-10-30-r1",
+    "type": "reel",
+    "scheduled_at": "2026-10-30T12:00:00-03:00",
+    "caption": "Falta sem aviso é horário perdido duas vezes: o da paciente que não veio e o de quem queria a vaga. Lembrete, confirmação e remarcação pela conversa. Quantas faltas você teve este mês?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r2",
+    "type": "reel",
+    "scheduled_at": "2026-10-31T12:00:00-03:00",
+    "caption": "Áudio longo no meio do atendimento? A assistente transcreve, entende e responde. Você prefere receber áudio ou texto dos pacientes?\n\n#nutricionista #nutricaoclinica #whatsapp",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-10-31T19:00:00-03:00",
+    "caption": "Falta sem aviso é a vaga que ninguém mais pode usar. Salve os 4 passos e comece pelo mais fácil. Qual deles você já usa no seu consultório?\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r3",
+    "type": "reel",
+    "scheduled_at": "2026-11-01T12:00:00-03:00",
+    "caption": "A assistente cuida da agenda, nunca da dieta: pergunta clínica vai direto para você, com a conversa inteira. Que pergunta de paciente você jamais deixaria no automático?\n\n#nutricionista #nutricaoclinica #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-w1",
+    "type": "chat",
+    "scheduled_at": "2026-11-01T19:00:00-03:00",
+    "caption": "Mensagem de sábado à noite, consulta marcada antes de domingo. Você estaria acordada para responder?\n\n#nutricionista #consultoriodenutricao #whatsapp",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r4",
+    "type": "reel",
+    "scheduled_at": "2026-11-02T12:00:00-03:00",
+    "caption": "Três perguntas, três respostas prontas. Salve e monte as suas ainda hoje. Qual pergunta mais se repete no seu WhatsApp?\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-c2",
+    "type": "carousel",
+    "scheduled_at": "2026-11-02T19:00:00-03:00",
+    "caption": "Seis coisas que a assistente faz enquanto você está atendendo. Qual delas mais te tira do foco hoje?\n\n#nutricionista #nutricaoclinica #agendamento",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r5",
+    "type": "reel",
+    "scheduled_at": "2026-11-03T12:00:00-03:00",
+    "caption": "Antes e depois de ter uma assistente no WhatsApp do consultório. Em qual lado você está hoje?\n\n#nutricionista #consultoriodenutricao #whatsappbusiness",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r6",
+    "type": "reel",
+    "scheduled_at": "2026-11-04T12:00:00-03:00",
+    "caption": "Link de agendamento: a pessoa escolhe, o horário fica reservado no clique e o lembrete sai sozinho. Seus pacientes preferem marcar por link ou conversando?\n\n#nutricionista #agendamento #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-c3",
+    "type": "carousel",
+    "scheduled_at": "2026-11-04T19:00:00-03:00",
+    "caption": "Automatizar o WhatsApp sem perder o controle do que é dito em seu nome: estas são as 5 regras. Qual você acrescentaria?\n\n#nutricionista #consultoriodenutricao #atendimento",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-r7",
+    "type": "reel",
+    "scheduled_at": "2026-11-05T12:00:00-03:00",
+    "caption": "Quatro mensagens, quatro respostas, todas com o seu texto. O que você mais tem medo de uma resposta automática falar?\n\n#nutricionista #nutricaoclinica #atendimento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-10-30-w2",
+    "type": "chat",
+    "scheduled_at": "2026-11-05T19:00:00-03:00",
+    "caption": "Remarcação respondida na hora é falta que não acontece. Quantas remarcações você faz por semana?\n\n#nutricionista #agendamento #gestaodeconsultorio",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r1",
+    "type": "reel",
+    "scheduled_at": "2026-11-06T12:00:00-03:00",
+    "caption": "Horário ocupado não precisa virar conversa encerrada: ela oferece as opções livres mais próximas. Qual dia da sua semana enche primeiro?\n\n#nutricionista #agendamento #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r2",
+    "type": "reel",
+    "scheduled_at": "2026-11-07T12:00:00-03:00",
+    "caption": "O que é clínico chega para você com o contexto completo. O que é agenda, a assistente resolve. Salve para lembrar dessa divisão.\n\n#nutricionista #nutricaoclinica #atendimento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-11-07T19:00:00-03:00",
+    "caption": "Seis itens para o WhatsApp do consultório funcionar sem você responder tudo do zero. Quantos você já tem prontos? Comente de 0 a 6.\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r3",
+    "type": "reel",
+    "scheduled_at": "2026-11-08T12:00:00-03:00",
+    "caption": "A maioria das faltas é esquecimento. Lembrete na véspera, confirmação registrada. Você manda lembrete hoje? Manual ou automático?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-w1",
+    "type": "chat",
+    "scheduled_at": "2026-11-08T19:00:00-03:00",
+    "caption": "Áudio transcrito, pedido entendido e retorno marcado. Seus pacientes mandam mais áudio ou texto?\n\n#nutricionista #whatsapp #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r4",
+    "type": "reel",
+    "scheduled_at": "2026-11-09T12:00:00-03:00",
+    "caption": "Regra de ouro da remarcação: responder no dia, oferecer duas opções e atualizar a agenda. Você já faz assim ou ainda pergunta qual horário fica bom?\n\n#nutricionista #gestaodeconsultorio #nutricaoclinica",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-c2",
+    "type": "carousel",
+    "scheduled_at": "2026-11-09T19:00:00-03:00",
+    "caption": "Mensagem que espera vira paciente que vai embora. Qual dessas cenas é a mais comum no seu consultório? Comente 1, 2 ou 3.\n\n#nutricionista #consultoriodenutricao #nutricaoclinica",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r5",
+    "type": "reel",
+    "scheduled_at": "2026-11-10T12:00:00-03:00",
+    "caption": "Cada consultório tem as suas regras, e a assistente responde de acordo com as suas. Quer ver como fica no seu? Chama a gente pelo link na bio.\n\n#nutricionista #consultoriodenutricao #atendimento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r6",
+    "type": "reel",
+    "scheduled_at": "2026-11-11T12:00:00-03:00",
+    "caption": "API oficial do WhatsApp, provedor verificado pela Meta e assistente que se apresenta como assistente. O que você confere antes de confiar numa ferramenta?\n\n#nutricionista #nutricaoclinica #whatsappbusiness",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-c3",
+    "type": "carousel",
+    "scheduled_at": "2026-11-11T19:00:00-03:00",
+    "caption": "Três passos para começar e sete dias grátis, sem fidelidade e sem taxa de instalação. Ficou alguma dúvida sobre os planos? Pergunta aqui.\n\n#nutricionista #consultoriodenutricao #gestaodeconsultorio",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-r7",
+    "type": "reel",
+    "scheduled_at": "2026-11-12T12:00:00-03:00",
+    "caption": "Sete dias grátis, sem fidelidade e sem taxa de instalação. Que tal ver o seu fim de semana respondido sem você?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-06-w2",
+    "type": "chat",
+    "scheduled_at": "2026-11-12T19:00:00-03:00",
+    "caption": "Lembrete na véspera e confirmação registrada: é assim que a agenda chega cheia no dia. Quantas faltas você teve na última semana?\n\n#nutricionista #agendamento #gestaodeconsultorio",
+    "media": [
+      "slide-01.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
   }
 ]
