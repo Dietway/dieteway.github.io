@@ -20,15 +20,15 @@ class RunResult:
     failed: list[str] = field(default_factory=list)
 
 
-STORY_NAME = "story.jpg"  # generator/render_story.py: the story frame of an image post, never part of the post
+STORY_NAMES = ("story.jpg", "story.mp4")  # generator/render_story.py: story versions, never part of the post
 
 
 def media_urls(entry: dict, base_url: str) -> list[str]:
-    return [f"{base_url}/media/{entry['id']}/{name}" for name in entry["media"] if name != STORY_NAME]
+    return [f"{base_url}/media/{entry['id']}/{name}" for name in entry["media"] if name not in STORY_NAMES]
 
 
 def story_url(entry: dict, base_url: str) -> str:
-    name = STORY_NAME if STORY_NAME in entry["media"] else entry["media"][0]
+    name = next((name for name in entry["media"] if name in STORY_NAMES), entry["media"][0])
     return f"{base_url}/media/{entry['id']}/{name}"
 
 
