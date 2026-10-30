@@ -20,8 +20,16 @@ class RunResult:
     failed: list[str] = field(default_factory=list)
 
 
+STORY_NAME = "story.jpg"  # generator/render_story.py: the story frame of an image post, never part of the post
+
+
 def media_urls(entry: dict, base_url: str) -> list[str]:
-    return [f"{base_url}/media/{entry['id']}/{name}" for name in entry["media"]]
+    return [f"{base_url}/media/{entry['id']}/{name}" for name in entry["media"] if name != STORY_NAME]
+
+
+def story_url(entry: dict, base_url: str) -> str:
+    name = STORY_NAME if STORY_NAME in entry["media"] else entry["media"][0]
+    return f"{base_url}/media/{entry['id']}/{name}"
 
 
 def _select(queue, now, only) -> list[dict]:
@@ -71,17 +79,17 @@ def publish_due(queue, client, base_url, now, *, only=None, dry_run=False, log=p
             result.published.append(entry["id"])
             log(f"published {entry['id']} -> {published_id}")
             on_change()  # the post is safe before the story is tried
-            _share_to_story(client, entry, urls, log)
+            _share_to_story(client, entry, story_url(entry, base_url), log)
         on_change()
     return result
 
 
-def _share_to_story(client, entry, urls, log) -> None:
-    """Owner (2026-10-29): every feed post also goes to the stories. The reel itself, or the first image. A story
+def _share_to_story(client, entry, url, log) -> None:
+    """Owner (2026-10-29): every feed post also goes to the stories: the reel itself, or the post's story frame. A story
     failure never touches the post's status, so the post is never republished because of it."""
     state = entry["platforms"]["instagram"]
     try:
-        state["story_id"] = client.publish_story(urls[0], video=entry["type"] == "reel")
+        state["story_id"] = client.publish_story(url, video=entry["type"] == "reel")
         log(f"story {entry['id']} -> {state['story_id']}")
     except InstagramError as exc:
         if exc.code == TOKEN_ERROR_CODE:
