@@ -571,10 +571,11 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
+        "status": "published",
         "attempts": 0,
-        "published_id": null,
-        "last_error": null
+        "published_id": "17907075960671024",
+        "last_error": null,
+        "story_id": "18134271725504770"
       }
     }
   },
