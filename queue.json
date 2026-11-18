@@ -642,5 +642,42 @@
         "story_id": "18015461627764127"
       }
     }
+  },
+  {
+    "id": "extra-2026-11-18-r1",
+    "type": "reel",
+    "scheduled_at": "2026-11-18T12:30:00-03:00",
+    "caption": "O consultório fecha, o WhatsApp não. Às 21h40 chega \"ainda dá para marcar?\", e a Wayny responde, oferece só os horários livres da sua agenda e deixa marcado para amanhã às 9h. Teste 7 dias grátis, sem fidelidade: link na bio. A que horas chegou a última mensagem no seu WhatsApp?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "extra-2026-11-18-a1",
+    "type": "anuncio",
+    "scheduled_at": "2026-11-18T19:00:00-03:00",
+    "caption": "Paciente pergunta, recebe a resposta e some. A Wayny retoma quem parou de responder e segue a conversa até marcar, sem você correr atrás de ninguém. Teste 7 dias grátis, sem fidelidade: link na bio. Quantas conversas ficaram pela metade no seu WhatsApp esta semana?\n\n#nutricionista #gestaodeconsultorio #whatsapp",
+    "media": [
+      "slide-01.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
   }
 ]
