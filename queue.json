@@ -679,5 +679,283 @@
         "last_error": null
       }
     }
+  },
+  {
+    "id": "2026-11-19-r1",
+    "type": "reel",
+    "scheduled_at": "2026-11-19T12:00:00-03:00",
+    "caption": "Ela perguntou o horário, recebeu a resposta e sumiu. A Wayny retoma quem parou de responder e segue até marcar, com os horários livres da sua agenda. Teste 7 dias grátis: link na bio. Quantas conversas paradas tem no seu WhatsApp agora?\n\n#nutricionista #consultoriodenutricao #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-a1",
+    "type": "anuncio",
+    "scheduled_at": "2026-11-19T19:00:00-03:00",
+    "caption": "Conversa de paciente é dado sensível. Com a Wayny, as conversas são criptografadas, o consentimento fica registrado e os dados de uma pessoa podem ser exportados ou excluídos quando ela pedir. Teste 7 dias grátis, sem fidelidade: link na bio. Você já pensou onde ficam as conversas do seu consultório?\n\n#nutricionista #lgpd #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r2",
+    "type": "reel",
+    "scheduled_at": "2026-11-20T12:00:00-03:00",
+    "caption": "O risco de banimento vem das ferramentas não oficiais, que imitam o WhatsApp Web. A Wayny atende só pela API oficial da Meta, no número que você já usa. Você sabia dessa diferença antes de ver este vídeo?\n\n#nutricionista #whatsappbusiness #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-c1",
+    "type": "carousel",
+    "scheduled_at": "2026-11-20T19:00:00-03:00",
+    "caption": "Seis hábitos que deixam o consultório organizado, do serviço com duração ao caixa fechado no dia. Salve e confira quantos você já faz. Comente de 0 a 6!\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r3",
+    "type": "reel",
+    "scheduled_at": "2026-11-21T12:00:00-03:00",
+    "caption": "Falta se resolve antes da consulta: lembrete na véspera, pedido de resposta, remarcação fácil e confirmação registrada. Salve e mostre para quem cuida da sua agenda. Qual desses passos você ainda não faz?\n\n#nutricionista #gestaodeconsultorio #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-w1",
+    "type": "chat",
+    "scheduled_at": "2026-11-21T19:00:00-03:00",
+    "caption": "Imprevisto acontece. A Wayny oferece os horários livres da sua agenda, remarca pela conversa e já agenda o lembrete. Quantas remarcações você faz por semana?\n\n#nutricionista #agendamento #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r4",
+    "type": "reel",
+    "scheduled_at": "2026-11-22T12:00:00-03:00",
+    "caption": "A Wayny não substitui a sua recepção: ela cobre o que ninguém cobre. Mensagem às 22h, no domingo ou no meio de um atendimento. Quer ver a Wayny atendendo antes de decidir? Fale com a gente pelo link na bio. Quem responde o WhatsApp do seu consultório hoje?\n\n#nutricionista #gestaodeconsultorio #atendimento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-c2",
+    "type": "carousel",
+    "scheduled_at": "2026-11-22T19:00:00-03:00",
+    "caption": "Marca, remarca, confirma, responde e retoma quem parou de responder. E o que é decisão sua chega no seu painel. Qual dessas tarefas toma mais o seu tempo hoje?\n\n#nutricionista #whatsapp #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "slide-07.jpg",
+      "slide-08.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r5",
+    "type": "reel",
+    "scheduled_at": "2026-11-23T12:00:00-03:00",
+    "caption": "Preço sempre o da sua tabela. Desconto, pacote e exceção ficam com você: a Wayny avisa o paciente e passa a conversa para o seu painel. E é regra no código, não um pedido à IA. Que pergunta você nunca deixaria um robô responder?\n\n#nutricionista #consultoriodenutricao #atendimento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-a2",
+    "type": "anuncio",
+    "scheduled_at": "2026-11-23T19:00:00-03:00",
+    "caption": "Mensagem de domingo respondida na segunda já chegou tarde. A Wayny responde na hora, oferece só os horários livres da sua agenda e marca. Na segunda você só confere. Teste 7 dias grátis, sem fidelidade: link na bio. Quantas mensagens ficam para segunda no seu WhatsApp?\n\n#nutricionista #gestaodeconsultorio #whatsapp",
+    "media": [
+      "slide-01.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r6",
+    "type": "reel",
+    "scheduled_at": "2026-11-24T12:00:00-03:00",
+    "caption": "Caderno, Google Agenda e WhatsApp: a agenda espalhada é onde nasce o horário duplicado. No Dietway CRM, agenda, clientes com histórico e equipe ficam num painel só, com o Google Agenda sincronizado. Teste 7 dias grátis: link na bio. Onde a sua agenda mora hoje?\n\n#nutricionista #gestaodeconsultorio #agendamento",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-c3",
+    "type": "carousel",
+    "scheduled_at": "2026-11-24T19:00:00-03:00",
+    "caption": "A Dietway cresceu: Chat, com a Wayny atendendo no WhatsApp; CRM, com agenda, clientes e equipe num painel; e Loja, com catálogo e pedido no WhatsApp. Todos com 7 dias grátis e sem fidelidade. Qual deles combina com o seu negócio?\n\n#nutricionista #empreendedorismo #whatsappbusiness",
+    "media": [
+      "slide-01.jpg",
+      "slide-02.jpg",
+      "slide-03.jpg",
+      "slide-04.jpg",
+      "slide-05.jpg",
+      "slide-06.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-r7",
+    "type": "reel",
+    "scheduled_at": "2026-11-25T12:00:00-03:00",
+    "caption": "A Wayny atende no número de WhatsApp que você já usa, pela API oficial da Meta. Conecte, cadastre serviços e preços e acompanhe a agenda. 7 dias grátis, sem fidelidade e sem taxa de instalação: link na bio. Essa era a sua dúvida também?\n\n#nutricionista #whatsappbusiness #consultoriodenutricao",
+    "media": [
+      "reel.mp4",
+      "cover.jpg",
+      "story.mp4"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
+  },
+  {
+    "id": "2026-11-19-w2",
+    "type": "chat",
+    "scheduled_at": "2026-11-25T19:00:00-03:00",
+    "caption": "Suplemento, dieta, sintoma e exame ficam com você. A Wayny avisa a paciente e passa a conversa para o seu painel, e segue cuidando da agenda. Que pergunta de paciente você responde só pessoalmente?\n\n#nutricionista #nutricaoclinica #consultoriodenutricao",
+    "media": [
+      "slide-01.jpg",
+      "story.jpg"
+    ],
+    "platforms": {
+      "instagram": {
+        "status": "pending",
+        "attempts": 0,
+        "published_id": null,
+        "last_error": null
+      }
+    }
   }
 ]
