@@ -903,10 +903,11 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
+        "status": "published",
         "attempts": 0,
-        "published_id": null,
-        "last_error": null
+        "published_id": "18032313296872617",
+        "last_error": null,
+        "story_id": "17991210855096119"
       }
     }
   },
