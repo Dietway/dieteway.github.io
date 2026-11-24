@@ -927,10 +927,11 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
+        "status": "published",
         "attempts": 0,
-        "published_id": null,
-        "last_error": null
+        "published_id": "18147637132592285",
+        "last_error": null,
+        "story_id": "18076647338785715"
       }
     }
   },
