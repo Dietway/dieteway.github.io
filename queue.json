@@ -966,10 +966,11 @@
     ],
     "platforms": {
       "instagram": {
-        "status": "pending",
+        "status": "published",
         "attempts": 0,
-        "published_id": null,
-        "last_error": null
+        "published_id": "18337889632279517",
+        "last_error": null,
+        "story_error": "HTTP 400: Media ID is not available"
       }
     }
   }
